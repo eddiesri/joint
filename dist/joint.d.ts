@@ -16,9 +16,10 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // typings: https://github.com/CaselIT/typings-jointjs
 
-/// <reference types="backbone" />
+// <reference types="backbone" />
 
 import * as Backbone from "backbone";
+import * as JQuery from 'jquery'; 
 
 export as namespace joint;
 
